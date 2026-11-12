@@ -1,0 +1,4 @@
+# Python packages your DAGs need, one per line, such as Airflow providers:
+# apache-airflow-providers-http
+# Airflow itself comes with the image, at the airflow service's version: don't
+# list apache-airflow here.
