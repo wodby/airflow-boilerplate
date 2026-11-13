@@ -3,9 +3,10 @@
 Keep your Apache Airflow DAGs, plugins and Python packages in Git and deploy
 them with Wodby.
 
-Use it with the [buildable Airflow](https://github.com/wodby/service-airflow-buildable)
-service (`airflow-buildable`). For Airflow without your own code in Git, use the
-[Airflow](https://github.com/wodby/service-airflow) service instead.
+Use it with the [Apache Airflow stack](https://github.com/wodby/stack-airflow),
+whose Airflow service
+([`airflow-buildable`](https://github.com/wodby/service-airflow-buildable))
+builds from this repository.
 
 ## Airflow's version
 
